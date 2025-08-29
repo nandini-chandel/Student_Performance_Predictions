@@ -1,0 +1,14 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#g)"/>
+  <g transform="translate(60,60)" fill="#fff">
+    <text x="0" y="60" font-size="48" font-weight="700">Student Performance Predictions</text>
+    <text x="0" y="110" font-size="24" opacity="0.95">Sundar Edition · Streamlit · scikit-learn · Visual Analytics</text>
+    <text x="0" y="150" font-size="18" opacity="0.9">Simple · Beautiful · Reproducible</text>
+  </g>
+</svg>
