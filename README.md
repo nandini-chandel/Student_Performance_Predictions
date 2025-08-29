@@ -1,4 +1,4 @@
-# Student Performance Predictions — Sundar Edition
+# Student Performance Predictions 
 
 <p align="center">
   <img src="assets/banner.svg" alt="Banner" width="80%"/>
